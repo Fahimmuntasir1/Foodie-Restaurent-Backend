@@ -1,0 +1,9 @@
+{
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.colorCustomizations": {
+    "activityBar.background": "#041f77",
+    "breadcrumb.background": "#041f77",
+    
+    },
+    "workbench.colorTheme": "Dracula At Night"
+}
